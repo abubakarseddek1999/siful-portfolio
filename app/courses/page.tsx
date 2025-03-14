@@ -2,7 +2,7 @@ import Link from "next/link"
 import Image from "next/image"
 import { Clock, Keyboard, Palette, Users } from "lucide-react"
 import saiful from "../../assets/images/472656703_1663781244176959_1748064954040121215_n.jpg"
-import saiful1 from "../../assets/images/480755392_1689521098269640_637299165741702518_n.jpg"
+// import saiful1 from "../../assets/images/480755392_1689521098269640_637299165741702518_n.jpg"
 
 export default function CoursesPage() {
   return (
